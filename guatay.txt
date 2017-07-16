@@ -1,0 +1,4 @@
+Name|Address|Last Inspection|Score|Grade|Inspection Date|Inspection Type|Result|Major Violations|Minor Violations|City|URL
+GUATAY COUNTRY STORE|27560 OLD HY 80, GUATAY, CA 91931|15-Aug-2016|100|NULL|15-Aug-2016|Routine|100|No major violations observed|No minor violations observed|Guatay|http://www2.sdcounty.ca.gov/ffis/DetailPage.aspx?Permit_id=211898338214
+GUATAY COUNTRY STORE|27560 OLD HY 80, GUATAY, CA 91931|15-Aug-2016|100|NULL|19-May-2015|Routine|97|No major violations observed|['Holding Temperatures', 'Nonfood Contact Surfaces Clean']|Guatay|http://www2.sdcounty.ca.gov/ffis/DetailPage.aspx?Permit_id=211898338214
+GUATAY COUNTRY STORE|27560 OLD HY 80, GUATAY, CA 91931|15-Aug-2016|100|NULL|07-Feb-2014|Routine|94|No major violations observed|['Approved Equipment and Utensils', 'Floors, Walls, and Ceilings', 'Holding Temperatures', 'Nonfood Contact Surfaces Clean', 'Toilet Facilities']|Guatay|http://www2.sdcounty.ca.gov/ffis/DetailPage.aspx?Permit_id=211898338214

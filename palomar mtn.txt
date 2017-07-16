@@ -1,0 +1,1 @@
+Name|Address|Last Inspection|Score|Grade|Inspection Date|Inspection Type|Result|Major Violations|Minor Violations|City|URL

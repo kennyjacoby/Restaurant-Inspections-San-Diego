@@ -1,0 +1,4 @@
+Name|Address|Last Inspection|Score|Grade|Inspection Date|Inspection Type|Result|Major Violations|Minor Violations|City|URL
+SAN ONOFRE SCHOOL|200 PATE RD, SAN CLEMENTE, CA 92672-5721|08-May-2017|100|A|08-May-2017|Routine|100|No major violations observed|No minor violations observed|San Clemente|http://www2.sdcounty.ca.gov/ffis/DetailPage.aspx?Permit_id=211946007274
+SAN ONOFRE SCHOOL|200 PATE RD, SAN CLEMENTE, CA 92672-5721|08-May-2017|100|A|09-Nov-2016|Routine|Complete|No major violations observed|No minor violations observed|San Clemente|http://www2.sdcounty.ca.gov/ffis/DetailPage.aspx?Permit_id=211946007274
+SAN ONOFRE SCHOOL|200 PATE RD, SAN CLEMENTE, CA 92672-5721|08-May-2017|100|A|14-Apr-2016|Routine|99|No major violations observed|['Premises, Vermin-proofing, Personal/Cleaning Items']|San Clemente|http://www2.sdcounty.ca.gov/ffis/DetailPage.aspx?Permit_id=211946007274
